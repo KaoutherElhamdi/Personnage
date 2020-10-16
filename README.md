@@ -13,5 +13,6 @@ Il sera compris entre 0 et 100 (0 = mort, 100 = toute la vie).
 • nomArme : type = Arme (classe)
 L'arme que porte le joueur.
 Les attributs de la classe Arme :
+
     • nom : type = string
     • degats : type = int
