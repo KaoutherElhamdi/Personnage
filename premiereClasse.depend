@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1602777377 source:c:\users\asus\documents\c++\premiereclasse\personnage.cpp
+	"personnage.h"
+
+1602776074 source:c:\users\asus\documents\c++\premiereclasse\main.cpp
+	"personnage.h"
+	"arme.h"
+	<iostream>
+
+1602777377 c:\users\asus\documents\c++\premiereclasse\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1602774350 c:\users\asus\documents\c++\premiereclasse\arme.h
+	<iostream>
+	<string>
+
+1602774456 source:c:\users\asus\documents\c++\premiereclasse\arme.cpp
+	"arme.h"
+
